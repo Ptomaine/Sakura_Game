@@ -1,0 +1,6 @@
+01 November 2007
+   released version 0.7.101 of Sakura
+
+     Change log:
+        -Autoversion started from now on.
+

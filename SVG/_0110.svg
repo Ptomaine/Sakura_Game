@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="100"
+   height="100"
+   id="svg2854">
+  <defs
+     id="defs2856" />
+  <g
+     id="layer1">
+    <g
+       transform="matrix(1.3354522,0,0,-1.3354522,-1.3340258e-3,-0.157581)"
+       id="Document"
+       style="font-size:16px;fill:none;stroke:#000000;font-family:Times New Roman">
+      <g
+         transform="translate(0,-75)"
+         id="Spread">
+        <g
+           id="Layer 1">
+          <rect
+             width="74.760002"
+             height="74.760002"
+             x="-37.380001"
+             y="-37.380001"
+             transform="matrix(0,1,-1,0,37.381,37.381)"
+             id="rect3368"
+             style="stroke:none;stroke-width:0.23999999;stroke-linejoin:miter;stroke-miterlimit:79.84031677" />
+          <path
+             d="M 24.88,74.882 L 49.881,74.882 L 49.881,49.882 L 74.881,49.882 L 74.881,24.881 L 24.894,24.881 L 24.894,26.512 L 24.88,26.512 L 24.88,74.882 z"
+             id="path3370"
+             style="fill:#7f4100;stroke:none;stroke-width:0.249;stroke-linejoin:miter;marker-start:none;marker-end:none;stroke-miterlimit:79.84031677" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
